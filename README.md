@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=sit3kk&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/sit3kk)
+[![Sit3kk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sit3kk&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/sit3kk)
 
 <!--
 **sit3kk/sit3kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
